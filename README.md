@@ -6,14 +6,59 @@ This paper series is part of the "Unified Cosmic Mechanics Evolution Theory" fra
 The new theoretical system achieves systematic natural compatibility with conventional theories from three essential aspects: 
 "logical self-consistency, mathematical formalization, and consistency with all physical experiments and natural phenomena".
 
-《宇宙统一力学演化论》（UCMET）共23篇论文，框架内通过引入广义状态演化系统，从底层第一性原理出发，基于现有理论、实验与数学进行了兼容性重构。该理论认为，宇宙唯一的底层实在是“动量单元”（m₀·c），即粒子存在实在性结构，所有物理现象均源于其矢量叠加、演化与交互过程。由此，理论兼容了经典力学、相对论与量子力学等跨学科难题。
+Introduction: 
 
-它系统地重建了整个物理系统的基本逻辑，包括：
-- 粒子间相互运动关系涌现出能量、力、动量的底层等价关系（p = f = e = m·v），并解释了宏观不等价表象的成因——力是动量偏差率（f = Δp/Δt），能量是动量偏差的累积（e = ∫ Δp·dl）；
-- 揭示了质量、能量、动量、力、信息、熵、时间、空间的基于动量单元演化的归一化起源，并阐明它们在宏观层面表现不同的机制；
-- 同时，阐释了粒子概率波问题、引力起源、紫外发散（其根源在于 mc² 是时空状态塑造方程，惯性运动不可二次积分）、暗物质、暗能量等核心问题。
+Current Challenges: 
 
-该框架为从微观物质状态表征基础，到宏观物质、生命、智能乃至天体的演化，提供了统一的机制与完整的基础逻辑。
+For a long time, in our pursuit of a deeper understanding and application of the physical world, we have established an extensive array of physical disciplines. These have achieved remarkable precision in mathematical predictions and proven highly effective in engineering applications. However, it is crucial not to overlook the following emerging vulnerabilities:
+
+1. Diminishing physical intuition in descriptions::  Concepts such as operators, probability waves, matrices, fiber bundles, spacetime curvature, dark energy, and dark matter are becoming increasingly abstract. There is a growing lack of a unified physical description that is observable, evolvable, and capable of materialization.
+
+2. Weak compatibility across domains::  The logical connections between energy and momentum, spacetime backgrounds and entity evolution, fields and particles, as well as information transmission, perception mechanisms, and entity evolution, remain unresolved. There is a tendency to artificially bridge these gaps rather than fundamentally reconciling them.
+
+3. Lack of microscopic origins for dimensional relationships::  The interrelationships among fundamental dimensions—such as time, space, mass, energy, momentum, force, information, and entropy—lack a foundational connection and a unified descriptive framework.
+
+4. Incomplete physical mechanisms::  There is an absence of a comprehensive mechanistic chain describing the complete process of a particle, from its generation, origin of motion, causal interactions, and phenomenon emergence, to dimensional relationships, conservation laws, and macroscopic observations.
+
+Theoretical Tasks: 
+
+This theory does not address the origin of the cosmic system; rather, it focuses on constructing the core elements of the ``Generalized Relational State Evolution System.'' Based on this foundation, it further deduces the emergence mechanisms of fundamental physical quantities and their dynamical relationships—including mass, momentum, time, space, the speed of light, kinetic energy, energy, force, and the Lorentz factor—and validates the dynamical evolution relationships within the cosmic system. The ultimate goal of this framework is to identify the missing directions and the true physical essence in contemporary physics, providing a fundamentally unified form of compensation for these gaps. Furthermore, it aims to offer a unified conceptual direction for ongoing research and present specific theoretical predictions.
+
+Theoretical Methodology: 
+
+This paper primarily adopts the ``Standard Three-Dimensional Orthogonal Inertial Relational State Evolution System'' as the default reference perspective. This ensures that the derivation process remains comparable to and verifiable against the structures of classical physics. Simultaneously, the logical framework constructed herein is compatible with the more general ``Generalized Relational State Evolution System.'' This universality allows the derived conclusions to apply not only to the physical cosmic system but also to be generalized to any other system possessing state representations, relational interactions, and evolution rules. The compatibility of this theory is rigorously validated across four dimensions: logical consistency, mathematical rigor, existing experimental data, and established traditional theories.
+Statement of Position: 
+The proposed framework remains compatible with conventional field theory and other effective descriptive systems while reinterpreting them through underlying relational evolution mechanisms, introducing necessary modeling hypotheses consistent with theoretical, mathematical and experimental constraints.
+
+Notes on Expression: 
+For dimensional representation, this framework exclusively deduces the underlying logic and statistical dependence between the generalized relational state evolution system and cosmic evolution, without adopting conventional dimensional units such as meter, second, kilogram, Newton and Joule; it does not accept the treatment of statistical outcomes from specific observational viewpoints (e.g., square second) as fundamental dimensional units. In physical description, all evolutionary rules and other physical depictions in this framework are formulated for intuitive interpretation from the generalized relational state evolution system. Namely, all physical phenomena are described via state evolution relations while conforming to observational results and conventional theories following a three-tier logic: state evolution $\rightarrow$ observational phenomenon $\rightarrow$ conventional theory compatibility. The proposed theory is abbreviated as Evolution Theory hereafter.
+
+Framework Explanation: 
+
+This theory re-examines the fundamental operating principles of physical systems from the perspective of evolutionary relations. Consequently, it differs fundamentally from traditional theories in both conceptual framework and mathematical formulation. The two approaches can only maintain compatibility, but cannot be directly mapped or cited item by item. Researchers with a background in traditional theories may inevitably harbor doubts about some of the conclusions and derivations upon their initial encounter with this framework. To this end, I hereby declare the following:
+
+The core mechanisms of this framework — including the necessary conditions for evolution, the emergent relationships of dimensional quantities, the causal influences of dynamics, and the microscopic origins of various observational effects — can all be concretely demonstrated and verified through digital parametric simulations. By constructing corresponding computational models, simulations can be run based on both this framework and traditional theories separately, and the output results (such as orbital morphology, momentum distribution, interference patterns, etc.) can be systematically compared — including comparisons of complexity or even the feasibility of simulation itself — to intuitively demonstrate the correctness and compatibility of this framework.
+
+Moreover, while maintaining the self-consistency of its underlying logic, this framework has already covered all major domains of physics (classical mechanics, relativity, quantum mechanics, celestial mechanics, etc.), and provides compatible mathematical formulations and testable quantitative predictions for each. Any further discussion or challenge to this theory is welcomed to be based on simulation verification and mathematical derivation, rather than merely on subjective judgments rooted in traditional conceptual systems.
+
+Reading Guide: 
+The progressive logic of the present theory is summarized as follows: system classification and static construction $\rightarrow$ relational evolution $\rightarrow$ free dimension and evolutionary motion modes $\rightarrow$ prerequisites for complex relation formation (standard quantization) $\rightarrow$ reference to the cosmic system, with cosmic physical phenomena deduced sequentially along this logical chain. Detailed elaboration is listed below:
+
+Layer 1 -- Static Characterization and Independent Evolution (System Foundation): Clarify diversified feasible forms of evolution systems and establish rules for state characterization and independent evolution, serving as the prerequisite for all subsequent derivations. Examples include independent evolution of RGB three primary colors, status updating on checkerboard lattices and sequential discrete state transition.
+
+Layer 2 -- Relational Evolution (Causal Interaction Establishment): Built upon Layer 1, individual evolution carriers establish causal interactions via perception and response mechanisms, laying the underlying foundation for mutually constrained systemic evolution.
+
+Layer 3 -- Inertial Evolution (Free Dimension and State Persistence): Free dimensions and state persistence rules are introduced atop relational evolution. Evolution carriers sustain uniform state expansion along free dimensions, from which inertial motion and classical mechanical phenomena emerge. Relevant inertial free dimension types include single-step progression and checkerboard jump-style displacement.
+
+Layer 4 -- Standard Quantization (Discrete Minimum Distributed Evolution): Minimum evolutionary events, baseline state characterization scales and discrete constraints are added onto inertial evolution. Quantum phenomena statistically emerge as inertial evolution confined by discrete restrictions.
+
+Layer 5 -- Cosmic System (Real-World Physical Universe): Rules from the preceding four layers are applied to cosmic scale. Relativistic effects and celestial mechanical phenomena are deduced starting from Momentum unit encapsulation, internal coupling entanglement and perceptual attenuation.
+
+The five layers constitute an irreversible progressive chain ranging from abstract abstraction to concrete reality and from simplicity to complexity. Every upper-layer rule remains intact when constructing subsequent layers, and richer physical phenomena are derived via supplementary restrictive conditions. Instead of predefining pre-existing entities or concepts including forces, energy, spacetime, reference frames, relational groups and strings, spacetime, dimensional emergence and dynamic relations are deduced from systemic necessity alongside corresponding physical phenomena.
+
+Content Declaration: 
+No single subfield of the proposed theory can be separated for independent elaboration due to mutual interdependence across all modules, resulting in an extensive overall manuscript. The established Evolution Theory spans classical mechanics, relativity, quantum mechanics and celestial mechanics, matching their inherent logical and mathematical formulations with an intricate reasoning chain and abundant customized symbolic correlations. Restricted by proofreading resources and manuscript length, occasional imprecise wording, inconsistent symbol usage, abbreviated derivation steps and incomplete numerical verification details may exist within the text. Such minor imperfections do not compromise the validity of core axioms, primary logical threads and key conclusions; revisions and optimizations will be supplemented in subsequent versions, and academic corrections from peer scholars are welcomed.
+
 
 All contents include complete mathematical verification, numerical simulation validation, and observational consistency checks.
 
@@ -22,37 +67,6 @@ All contents include complete mathematical verification, numerical simulation va
 ## Important Declaration
 **Date of Declaration: April 30, 2026**
 
-This work was met with silent academic censorship on OSF, Zenodo, Preprints.org, and other international platforms.
-Therefore, all formal publications and validations are now hosted and progressing on Chinese official academic platforms.
-
----
-
-## Full 23-Paper Series
-1. Unified Cosmic Mechanics Evolution Theory (I): Information Dynamics Evolution System
-2. Unified Cosmic Mechanics Evolution Theory (II): Cosmic Evolutionary Resources
-3. Unified Cosmic Mechanics Evolution Theory (III): Cosmic Evolution Rules
-4. Unified Cosmic Mechanics Evolution Theory (IV): Necessity of the Cosmic Force Update Mechanism and the Origin of Time
-5. Unified Cosmic Mechanics Evolution Theory (V): Reconstruction of Dynamic Relationships of Basic Physical Dimensions
-6. Unified Cosmic Mechanics Evolution Theory (VI): The Relationship Between Relativity, Classical Mechanics, and Quantum Mechanics
-7. Unified Cosmic Mechanics Evolution Theory (VII): Evolutionary Spacetime
-8. Unified Cosmic Mechanics Evolution Theory (VIII): Single-Particle High-Speed Dynamical Effects and Their Relationship with Relativity
-9. Unified Cosmic Mechanics Evolution Theory (IX): Reconstruction of the Origin of Magnetism Based on Relativistic Dynamics
-10. Unified Cosmic Mechanics Evolution Theory (X): Dynamic Reconstruction of Mercury's Perihelion Precession and Gravitational Waves Based on Relativistic Effects
-11. Unified Cosmic Mechanics Evolution Theory (XI): Field and Particle — Momentum Topological Coding Deterministic Quantum Theory
-12. Unified Cosmic Mechanics Evolution Theory (XII): Dynamic Compatibility Verification of the Particle Encapsulation Velocity Increase Equation
-13. Unified Cosmic Mechanics Evolution Theory (XIII): The Nature of Force
-14. Unified Cosmic Mechanics Evolution Theory (XIV): Particle Velocity Saturation Dynamical Effect
-15. Unified Cosmic Mechanics Evolution Theory (XV): Corresponding Relationship of Causal Interaction State Evolution between Photons and Electrons
-16. Unified Cosmic Mechanics Evolution Theory (XVI): Derivation and Verification of the Electron Dynamic Radius Formula
-17. Unified Cosmic Mechanics Evolution Theory (XVII): Quantum Entanglement — Single-Particle Coordinated Evolution and Three-Layer Angular Momentum Conservation
-18. Unified Cosmic Mechanics Evolution Theory (XVIII): Indirect Relationship Between Charge and Mass
-19. Unified Cosmic Mechanics Evolution Theory (XIX): Principle of Momentum Flow Distribution Integral in Multi-Slit Experiments
-20. Unified Cosmic Mechanics Evolution Theory (XX): Momentum Topological Coding — Derivation of Particle State Evolution Equations
-21. Unified Cosmic Mechanics Evolution Theory (XXI): Large-Scale Galaxy Co-Evolution — Momentum Deviation Unloading and Reticulate Gravitational Model
-22. Unified Cosmic Mechanics Evolution Theory (XXII): Cosmic Free-Steady-State Binary Game Evolution — Natural Evolution vs. Unnatural Evolution
-23. Unified Cosmic Mechanics Evolution Theory (XXIII): Numerical Simulation of No-Delay Gravitational Interaction & Reticulate Gravity Dynamics (CONVERGED & VERIFIED)
-
----
 
 ## License & Copyright Statement
 **Effective Date: April 30, 2026**
